@@ -1,0 +1,92 @@
+/*body {text-indent: }*/
+@import url(http://fonts.googleapis.com/css?family=Cabin:700);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,800);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800);
+@import url(http://fonts.googleapis.com/css?family=Lato:900);
+                       
+div.navbar-default {
+                    border-bottom: 0px;
+                    background-color: rgba(255, 255, 255, 0.8);}
+
+                 
+
+.jumbotron {
+  /*padding: 30px 10px;*/
+  margin-top: -200px;
+  margin-bottom: -0px;
+  height: 800px;
+  color: inherit; 
+  background: url(../img/billboard-5.jpg);
+  background-size: cover;
+  display: block;
+  text-align: center;
+}
+
+div.intro {margin-top: 190px;}
+
+img.brand {padding-top: 80px;}
+
+/*.jumbotron h1 {color:#fff;
+               margin-top: 330px;}*/
+
+.carousel-inner img {
+  margin: auto;
+}               
+
+a.navbar-brand {color: white;}     
+
+a.navbar-brand img {margin-top: -20px;}          
+
+.jumbotron p {color:#fff;}  
+
+h3.title {color: rgba(110, 110, 110, 1);
+          font-family: 'Cabin', sans-serif;
+          font-size: 36px;
+          
+          } 
+
+span.caption {font-family: 'Open Sans', sans-serif;
+              font-weight: normal;
+              font-style: italic;
+             }
+
+/*div.caption-1 { margin-bottom: 15px;}     
+
+div.caption-2 { margin-bottom: 15px;}*/   
+
+h3.caption-carousel {color: orange;}
+
+p.caption-carousel 
+
+           
+
+
+
+
+ span.name   {font-family: 'Lato', sans-serif;
+              font-weight: 900;
+              font-style: none;
+              margin-top: 10px;}   
+
+div.caption-1 {margin-bottom: 50px;}   
+
+div.caption-2 {margin-bottom: 50px;}   
+
+footer.footer {margin-top: 90px;
+              color: rgba(220, 220, 220, 1);
+              }
+
+footer.footer p {border-top: 1px solid;
+                 border-color: rgba(220, 220, 220, 1);
+                padding-top: 10px;}                                                       
+
+h1.breadcrump {color: white;}  
+
+   
+
+
+
+
+
+
+

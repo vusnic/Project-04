@@ -1,0 +1,25 @@
+ nav {margin-bottom: 30px;}
+
+
+ div.title h3 {color: rgba(190, 190, 190, 1);
+        font-size: 20px;}
+
+ ul  {float: right;
+       list-style: none;       
+       display: block;
+       margin-top: -35px;
+   } 
+
+ ul li {float: left;
+        margin-right: 0px;} 
+
+ a {display: block;}         
+
+ div.pg {border-bottom: 1px solid silver;
+         margin-bottom: 10px;
+        }  
+
+ h2 { font-size: 40px;}        
+
+  p.headline {font-size: 14px;}   
+

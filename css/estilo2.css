@@ -1,0 +1,25 @@
+div.page-header p.lead {font-size: 15px;}
+
+
+
+div.col-md-4 {background-color: rgba(245, 245, 245, 1);
+              padding-top: 10px;
+              padding-bottom: 10px;
+              margin-top: -10px; }
+
+div#strange {background-color: rgba(230, 230, 230, 1);}
+
+div.col-md-3 {background-color: rgba(245, 245, 245, 1);
+              padding-top: 10px;
+              padding-bottom: 10px;
+              margin-top: -10px; }
+
+div.col-md-6 {background-color: rgba(230, 230, 230, 1);
+              padding-top: 10px;
+              padding-bottom: 10px;
+              margin-top: -10px;}
+
+div.col-md-3 {background-color: rgba(245, 245, 245, 1);
+              padding-top: 10px;
+              padding-bottom: 10px;
+              margin-top: -10px; }                            

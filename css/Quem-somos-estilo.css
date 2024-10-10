@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Cabin:700);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,800);
+
+div.text h2 {color: rgba(110, 110, 110, 1);
+          font-family: 'Cabin', sans-serif;
+          font-size: 36px;}
+
+/*div.text p { padding-left: 100px;
+             padding-right: 100px;}*/
+
+/* centered columns styles */
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+   /* text-align:left;*/
+    /* inline-block space fix */
+    margin-right:-4px;
+}             
+
+/*footer {margin-top: 90px;
+        color: rgba(220, 220, 220, 1);}*/                                         
+
